@@ -1,0 +1,94 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "firstName": "John",
+      "lastName": "Doe",
+      "group": "React N12"
+    },
+    {
+      "id": "2",
+      "firstName": "Dane",
+      "lastName": "Swift",
+      "group": "React N32"
+    },
+    {
+      "id": "3",
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "group": "React N11"
+    },
+    {
+      "id": "4",
+      "firstName": "Kane",
+      "lastName": "Laple",
+      "group": "React N12"
+    },
+    {
+      "id": "5",
+      "firstName": "Willy",
+      "lastName": "Williyam",
+      "group": "React N21"
+    },
+    {
+      "id": "6",
+      "firstName": "Worley",
+      "lastName": "James",
+      "group": "React N24"
+    },
+    {
+      "id": "7",
+      "firstName": "Ramso",
+      "lastName": "Herny",
+      "group": "React N25"
+    },
+    {
+      "id": "8",
+      "firstName": "Ardano",
+      "lastName": "James",
+      "group": "React N31"
+    },
+    {
+      "id": "9",
+      "firstName": "Robert",
+      "lastName": "Smith",
+      "group": "React N44"
+    },
+    {
+      "id": "10",
+      "firstName": "Rob",
+      "lastName": "Piter",
+      "group": "React N19"
+    },
+    {
+      "id": "11",
+      "firstName": "Ross",
+      "lastName": "Washington",
+      "group": "React N99"
+    },
+    {
+      "id": "12",
+      "firstName": "Tom",
+      "lastName": "Taylor",
+      "group": "React N59"
+    },
+    {
+      "id": "13",
+      "firstName": "Paul",
+      "lastName": "Miller",
+      "group": "React N38"
+    },
+    {
+      "id": "14",
+      "firstName": "David",
+      "lastName": "King",
+      "group": "React N45"
+    },
+    {
+      "id": "15",
+      "firstName": "Lucy",
+      "lastName": "White",
+      "group": "React N50"
+    }
+  ]
+}
